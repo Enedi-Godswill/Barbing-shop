@@ -56,8 +56,9 @@ span{
     border-radius:5px;
     padding:10px;
     display:flex;
-    flex-direction:column;
     align-items:center;
+    text-align:center;
+    flex-direction:column;
     gap:10px;
     width:400px;
     line-height:25px;
@@ -105,11 +106,13 @@ span{
     }
     .card{
         font-size:16px;
-        width:250px;
+        width:200px;
         height:13rem;
+        line-height:20px;
     }
     .card p{
-        font-size:12px;
+        line-height:none;
+        font-size:10px;
     }
     /* reviews */
     
