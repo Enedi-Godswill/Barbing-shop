@@ -59,8 +59,7 @@ span{
     flex-direction:column;
     align-items:center;
     gap:10px;
-    width:450px;
-    height:12rem;
+    width:400px;
     line-height:25px;
 }
 .card p{
@@ -105,9 +104,8 @@ span{
         gap:1rem;
     }
     .card{
-        line-height:none;
         font-size:16px;
-        width:300px;
+        width:250px;
         height:13rem;
     }
     .card p{
